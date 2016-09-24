@@ -1,0 +1,5 @@
+C:\Users\JASON\Desktop\MYWORKS\PROJECTS WEB APPLICATIONS\DMS\DMS.Common\bin\Debug\DMS.Common.dll
+C:\Users\JASON\Desktop\MYWORKS\PROJECTS WEB APPLICATIONS\DMS\DMS.Common\bin\Debug\DMS.Common.pdb
+C:\Users\JASON\Desktop\MYWORKS\PROJECTS WEB APPLICATIONS\DMS\DMS.Common\obj\Debug\DMS.Common.csprojResolveAssemblyReference.cache
+C:\Users\JASON\Desktop\MYWORKS\PROJECTS WEB APPLICATIONS\DMS\DMS.Common\obj\Debug\DMS.Common.dll
+C:\Users\JASON\Desktop\MYWORKS\PROJECTS WEB APPLICATIONS\DMS\DMS.Common\obj\Debug\DMS.Common.pdb

@@ -1,0 +1,17 @@
+C:\Users\JASON\Desktop\MYWORKS\PROJECTS WEB APPLICATIONS\DMS\DMS.Service\bin\Debug\DMS.Service.dll
+C:\Users\JASON\Desktop\MYWORKS\PROJECTS WEB APPLICATIONS\DMS\DMS.Service\bin\Debug\DMS.Service.pdb
+C:\Users\JASON\Desktop\MYWORKS\PROJECTS WEB APPLICATIONS\DMS\DMS.Service\bin\Debug\DMS.Common.dll
+C:\Users\JASON\Desktop\MYWORKS\PROJECTS WEB APPLICATIONS\DMS\DMS.Service\bin\Debug\DMS.Data.dll
+C:\Users\JASON\Desktop\MYWORKS\PROJECTS WEB APPLICATIONS\DMS\DMS.Service\bin\Debug\DMS.Model.dll
+C:\Users\JASON\Desktop\MYWORKS\PROJECTS WEB APPLICATIONS\DMS\DMS.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JASON\Desktop\MYWORKS\PROJECTS WEB APPLICATIONS\DMS\DMS.Service\bin\Debug\EntityFramework.dll
+C:\Users\JASON\Desktop\MYWORKS\PROJECTS WEB APPLICATIONS\DMS\DMS.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JASON\Desktop\MYWORKS\PROJECTS WEB APPLICATIONS\DMS\DMS.Service\bin\Debug\DMS.Common.pdb
+C:\Users\JASON\Desktop\MYWORKS\PROJECTS WEB APPLICATIONS\DMS\DMS.Service\bin\Debug\DMS.Data.pdb
+C:\Users\JASON\Desktop\MYWORKS\PROJECTS WEB APPLICATIONS\DMS\DMS.Service\bin\Debug\DMS.Model.pdb
+C:\Users\JASON\Desktop\MYWORKS\PROJECTS WEB APPLICATIONS\DMS\DMS.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JASON\Desktop\MYWORKS\PROJECTS WEB APPLICATIONS\DMS\DMS.Service\bin\Debug\EntityFramework.xml
+C:\Users\JASON\Desktop\MYWORKS\PROJECTS WEB APPLICATIONS\DMS\DMS.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JASON\Desktop\MYWORKS\PROJECTS WEB APPLICATIONS\DMS\DMS.Service\obj\Debug\DMS.Service.csprojResolveAssemblyReference.cache
+C:\Users\JASON\Desktop\MYWORKS\PROJECTS WEB APPLICATIONS\DMS\DMS.Service\obj\Debug\DMS.Service.dll
+C:\Users\JASON\Desktop\MYWORKS\PROJECTS WEB APPLICATIONS\DMS\DMS.Service\obj\Debug\DMS.Service.pdb
